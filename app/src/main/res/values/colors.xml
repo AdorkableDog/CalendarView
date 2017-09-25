@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="normal_txt_color">#222</color>
+    <color name="tips_txt_color">#999</color>
+    <color name="sub_txt_color">#666</color>
+    <color name="line_color">#eee</color>
+    <color name="orange_color">#f47f20</color>
+    <color name="white">#fff</color>
+    <color name="light_orange_color">#ffcfb7</color>
+    <color name="sub_green_color">#03df75</color>
+    <color name="content_bg_color">#fdfdfd</color>
+    <color name="sub_pressed_green_color">#00c336</color>
+    <color name="sub_blue_color">#23c3ff</color>
+    <color name="sub_pressed_blue_color">#14acff</color>
+    <color name="sub_light_blue_color">#81d7ff</color>
+    <color name="sub_gray_color">#ddd</color>
+    <color name="sub_pressed_gray_color">#ccc</color>
+    <color name="phone_code_disable_color">#cccccc</color>
+    <color name="sub_light_orange_color">#f9bf90</color>
+    <color name="search_et_color">#f2f2f2</color>
+
+</resources>
