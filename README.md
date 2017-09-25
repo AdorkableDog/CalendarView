@@ -51,4 +51,4 @@
 ##Screenshots 
 =================
 
-![Image text](https://raw.githubusercontent.com/KungFuteddy/CalendarView/master/Screenshot.png)
+![Image text](https://raw.githubusercontent.com/KungFuteddy/CalendarView/master/ScreenShot.png)
